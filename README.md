@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Leela-2373
+- 👋 Hi, I’m leela
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning full stack java
 - 📫 How to reach me: vleelanjali@gmail.com
-- 😄 Pronouns:she/ her
